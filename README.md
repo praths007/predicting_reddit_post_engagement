@@ -52,7 +52,8 @@ Following are the results of Logistic Regression with L1 penalty:
 ### 2. Random Forest
 To capture non-linear pattern, we use Random Forest Classifier. 
 Following are the results of Random Forest Classifier on default parameters:
-![Random Forest Results](/misc/rf_results.png)
+
+[![Random Forest Results](/misc/rf_results.png)
 
 Here we see that the model AUC improves marginally but there is a significant improvement in the f1-score. It also reinforces the fact that the data has non-linear patterns and using a linear-model is insufficient. 
 ### 3. XGBoost with Bayesian Optimization 
