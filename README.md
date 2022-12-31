@@ -25,4 +25,4 @@ Moving towards feature engineering of our data, our goals on a high level are as
 5. Standard scaling of features 
 
 ## Heatmap
-![Heatmap image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Heatmap image](/misc/heatmap.png)
